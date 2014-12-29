@@ -18,12 +18,12 @@ Courses
 
 ### Systems
 
-- [CS425](https://courses.engr.illinois.edu/cs425/) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* 
+- [CS425](https://courses.engr.illinois.edu/cs425/) **Distributed Systems** *Univ of Illinois, Urbana-Champaign*
   - Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos.
   - [Lectures](http://recordings.engineering.illinois.edu/ess/portal/section/11ae0191-49e2-4c34-95fd-fc65355262d4)
   - [Assignments](https://courses.engr.illinois.edu/cs425/assignments.html)
 - [CS241](https://courses.engr.illinois.edu/cs241/) **Systems Programming** *Univ of Illinois, Urbana-Champaign*
-  - Learn how to write programs that take full advantage of operating system support in the C programming language 
+  - Learn how to write programs that take full advantage of operating system support in the C programming language
   - [Assignments](https://courses.engr.illinois.edu/cs241/mp.html)
 - [CS 452](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10) **Real-Time Programming** *University of Waterloo*
   - Write a real-time OS microkernel in C, and application code to operate a model train set in response to real-time sensor information. The communication with the train set runs at 2400 baud so it takes about 61 milliseconds to ask all of the sensors for data about the train's possible location.  This makes it particularly challenging because a train can move about 3 centimeters in that time. One of the most challenging and time-consuming courses at the University of Waterloo.
@@ -33,7 +33,7 @@ Courses
   - Introduction to distributed systems with a focus on teaching concepts via projects implemented in the Go programming language.
   - [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
 - [6.824](http://css.csail.mit.edu/6.824/2014/index.html) **Distributed Systems** *MIT*
-  - MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang! 
+  - MIT's graduate-level DS course with a focus on fault tolerance, replication, and consistency, all taught via awesome lab assignments in Golang!
   - [Assignments](http://css.csail.mit.edu/6.824/2014/labs/) - Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`
   - [Lectures](http://css.csail.mit.edu/6.824/2014/schedule.html)
 - [SPAC](http://homes.cs.washington.edu/~djg/teachingMaterials/spac/) **Parallelism and Concurrency** *Univ of Washington*
@@ -51,11 +51,11 @@ Courses
 - [CSCI 360](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php) **Computer Architecture 3** *CUNY Hunter College*
   -  A course that covers cache design, buses, memory hierarchies, processor-peripheral interfaces, and multiprocessors, including GPUs.
 - [CSCI 493.66](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College*
-  - A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading. 
+  - A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading.
 - [CSCI 493.75](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php) **Parallel Computing** *CUNY Hunter College*
   - The course is an introduction to parallel algorithms and parallel programming in C and C++, using the Message Passing Interface (MPI) and the OpenMP application programming interface. It also includes a brief introduction to parallel architectures and interconnection networks. It is both theoretical and practical, including material on design methodology, performance analysis, and mathematical concepts, as well as details on programming using MPI and OpenMP.
 - [CS 107](http://web.stanford.edu/class/cs107/index.html) **Computer Organization & Systems** *Stanford University*
-  - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness. 
+  - CS107 is the third course in Stanford's introductory programming sequence. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, portability, and robustness.
   - [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
   - [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
 - [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo*
@@ -81,7 +81,7 @@ Courses
   - Building software systems in Haskell
   - [Lecture Slides](http://www.scs.stanford.edu/14sp-cs240h/slides/)
   - 3 Assignments: [Lab1](http://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html), [Lab2](http://www.scs.stanford.edu/14sp-cs240h/labs/lab2.html), [Lab3](http://www.scs.stanford.edu/14sp-cs240h/labs/lab3.html)
-- [CS164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *UC Berkeley*
+- [CS164](https://sites.google.com/a/bodik.org/cs164/home) **Hack your language!** *UC Berkeley* 🎦
   - Introduction to programming languages by designing and implementing domain-specific languages.
   - [Lecture Videos](https://www.youtube.com/playlist?list=PL421867F00A53B833)
   - [Code for Assignments](https://bitbucket.org/cs164_overlord/)
@@ -111,11 +111,11 @@ Courses
 -------
 
 ### Algorithms
-- [CSE-373](http://www3.cs.stonybrook.edu/~skiena/373/) **Analysis of Algorithms** *Stony Brook University* 
+- [CSE-373](http://www3.cs.stonybrook.edu/~skiena/373/) **Analysis of Algorithms** *Stony Brook University*
   - Prof Steven Skiena's no stranger to any student when it comes to algorithms. His seminal [book](http://www.algorist.com/) has been touted by many to be best for [getting that job in Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html). In addition, he's also well-known for tutoring students in competitive [programming competitions](http://www.programming-challenges.com/pg.php?page=index). If you're looking to brush up your knowledge on Algorithms, you can't go wrong with this course.
   - [Lecture Videos](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 - [15-451/651](http://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/) **Algorithms** *Carnegie Mellon University*
-  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms cirriculums on this page. Taught by Avrim Blum and Manuel Blum who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum. 
+  - The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms cirriculums on this page. Taught by Avrim Blum and Manuel Blum who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.
 - [COS226](http://www.cs.princeton.edu/courses/archive/fall14/cos226/info.php) **Data Structures and Algorithms** *Princeton University*
   - The [popular](https://www.coursera.org/course/algs4partI) algorithms class covering most important algorithms and data structures in use on computers taught by Robert Sedgewick.
   - [Assignments](http://www.cs.princeton.edu/courses/archive/fall14/cos226/assignments.php)
@@ -124,11 +124,11 @@ Courses
   - [Labs](http://www.cs.berkeley.edu/~jrs/61b/lab/index.html)
   - [Lecture Videos on Youtube](http://www.youtube.com/watch?v=frxF7Vs96YU&list=PLMM0a7ZGnITrgfhOxMNP7bpP4hhhKNY9s)
 - [CSCI 135](http://compsci.hunter.cuny.edu/~sweiss/courses/csci135.php) **Software Design and Analysis I**
-  *CUNY Hunter College* 
+  *CUNY Hunter College*
   - It is currently an intensive introduction to program development and problem solving. Its emphasis is on the process of designing, implementing, and evaluating small-scale programs. It is not supposed to be a C++ programming course, although much of the course is spent on the details of C++. C++ is an extremely large and complex programming language with many features that interact in unexpected ways. One does not need to know even half of the language to use it well.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci135_36_fall12.php)
 - - [CSCI 235](http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php) **Software Design and Analysis II**
-  *CUNY Hunter College* 
+  *CUNY Hunter College*
   - Introduces algorithms for a few common problems such as sorting. Practically speaking, it furthers the students' programming skills with topics such as recursion, pointers, and exception handling, and provides a chance to improve software engineering skills and to give the students practical experience for more productive programming.
   - [Lectures and Assignments](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci235/csci235_f14.php)
 - [CSCI 335](http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php) **Software Design and Analysis III**
@@ -140,8 +140,8 @@ Courses
   - [Lecture Notes](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/notes/all-algorithms.pdf)
   - [Labs and Exams](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/hwex/all-hwex.pdf)
 - [6.854/18.415J](http://courses.csail.mit.edu/6.854/current/) **Advanced Algorithms** *MIT*
-  - Advanced course in algorithms by Dr. David Karger covering topics such as amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. 
-  - **Register** on [NB](http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw) to access the [problem set and lectures](http://nb.mit.edu/). 
+  - Advanced course in algorithms by Dr. David Karger covering topics such as amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms.
+  - **Register** on [NB](http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw) to access the [problem set and lectures](http://nb.mit.edu/).
 - [6.851](http://courses.csail.mit.edu/6.851/spring14/index.html) **Advanced Data Structures** *MIT*
   - This is an advanced DS course, you must be done with the [Advanced Algorithms](http://courses.csail.mit.edu/6.854/current/) course before attempting this one.
   - [Lectures](http://courses.csail.mit.edu/6.851/spring14/lectures/) Contains videos from sp2012 version, but there isn't much difference.
@@ -166,7 +166,7 @@ Courses
   -  CS103 is a first course in discrete math, computability theory, and complexity theory. In this course, we'll probe the limits of computer power, explore why some problems are harder to solve than others, and see how to reason with mathematical certainty.
   -  Links to all lectures notes and assignments are directly on the course page
 - [CS 173](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html) **Discrete Structures** *Univ of Illinois Urbana-Champaign*
-  - This course is an introduction to the theoretical side of computer science. In it, you will learn how to construct proofs, read and write literate formal mathematics, get a quick introduction to key theory topics and become familiar with a range of standard mathematics concepts commonly used in computer science. 
+  - This course is an introduction to the theoretical side of computer science. In it, you will learn how to construct proofs, read and write literate formal mathematics, get a quick introduction to key theory topics and become familiar with a range of standard mathematics concepts commonly used in computer science.
   - [Textbook](http://web.engr.illinois.edu/~mfleck/building-blocks/) Written by the professor. Includes Instructor's Guide.
   - [Assignments](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html)
   - [Exams](https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html)
@@ -185,7 +185,7 @@ Courses
   - CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
   - Lectures videos will available for free after registration.
 - [CS 106A](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111) **Programming Methodology** *Stanford University*
-  - This course is the largest of the introductory programming courses and is one of the largest courses at Stanford. Topics focus on the introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Programming Methodology teaches the widely-used Java programming language along with good software engineering principles.  
+  - This course is the largest of the introductory programming courses and is one of the largest courses at Stanford. Topics focus on the introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Programming Methodology teaches the widely-used Java programming language along with good software engineering principles.
   - [Lecture Videos](http://see.stanford.edu/see/lecturelist.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
   - [Assignments](http://see.stanford.edu/see/materials/icspmcs106a/assignments.aspx)
   - [All materials in a zip file](http://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip)
@@ -218,7 +218,7 @@ Courses
   - [Lectures](http://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today)
   - [Assignments](http://courses.cs.washington.edu/courses/cse154/14au/homework.shtml)
 - [IGME-582](http://hfoss-fossrit.rhcloud.com) **Humanitarian Free & Open Source Software Development** *Rochester Institute of Technology*
-  - This course provides students with exposure to the design, creation and production of Open Source Software projects. Students will be introduced to the historic intersections of technology and intellectual property rights and will become familiar with Open Source development processes, tools and practices. 
+  - This course provides students with exposure to the design, creation and production of Open Source Software projects. Students will be introduced to the historic intersections of technology and intellectual property rights and will become familiar with Open Source development processes, tools and practices.
 - [IGME-585](http://advfoss-ritigm.rhcloud.com) **Advanced Project Based Free & Open Source Software Development** *Rochester Institute of Technology*
   - A project based course where students develop 3 tightly scoped open source projects for the Raspberry Pi.
 - [CS223A](http://see.stanford.edu/see/courseinfo.aspx?coll=86cc8662-f6e4-43c3-a1be-b30d1d179743) **Introduction to Robotics** *Stanford University*
